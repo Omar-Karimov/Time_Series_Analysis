@@ -7,8 +7,11 @@ In this repository, you will find various characteristics of time series and for
 
 
 ![](Images/CPI.png) 
+
 ![](Images/ETS.png)
+
 ![](Images/Jew.png)
+
 ![](Images/fACE.png)
 
 
