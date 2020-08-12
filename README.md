@@ -6,7 +6,9 @@ Inferences to be obtained from events changing with the effect of time and marki
 In this repository, you will find various characteristics of time series and forecasting models.
 
 
-<img src="Images/CPI.png"  width="500" height="300"> , <img src="Images/ETS.png"  width="400" height="300">
+![](Images/CPI.png) 
+![](Images/ETS.png)
+![](Images/Jew.png)
+![](Images/fACE.png)
 
-<img src="Images/Jew.png"  width="400" height="300"> , <img src="Images/fACE.png"  width="500" height="400">
 
